@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "file": "bundle-1.2.0.zip",
-  "checksum": "8d84cf8d43f719bd110aa617ad5767dd60c245baf448b9859624652bf8531579",
-  "notes": "检查更新不会再一直转圈：manifest 从 GitHub API 取最新、bundle 走镜像，两条网络通道都试，另有网络自检",
+  "version": "1.2.1",
+  "file": "bundle-1.2.1.zip",
+  "checksum": "0019f68bc398de73b99676acc8d44c9ca3dd49a6013dbaf26273cfb7cec22e91",
+  "notes": "更新地址那行说明改了措辞，用来验证手机上的自动更新是否真的跑通",
   "minShellVersion": "1.2.0",
-  "commit": "7c6e53819c1e67bb0c84f9a8d9ddb6a5d63e1eab"
+  "commit": "399ddc02a14bcc92fabd59a6b60486db38d8f4b4"
 }
