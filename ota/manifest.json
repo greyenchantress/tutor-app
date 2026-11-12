@@ -1,8 +1,8 @@
 {
-  "version": "1.3.1",
-  "file": "bundle-1.3.1.zip",
-  "checksum": "0f6a4656ce20016e1e6e8d72a48fa2d1b770409f43dbae55a71e2892ef81c025",
-  "notes": "检查更新不再卡住：插件调用全部限时，界面版本改读本地记录，自检逐条出结果",
+  "version": "1.3.2",
+  "file": "bundle-1.3.2.zip",
+  "checksum": "5b4537a5461ea797858b72aeb9c0b1747b28df38b43e5ecfb9f49061e3136176",
+  "notes": "检查更新彻底不卡：插件调用全部限时、进度分步显示、源滞后会自动问下一个源",
   "minShellVersion": "1.2.0",
-  "commit": "93d37a85d5f83ba60344adb21b135b3c46881e5f"
+  "commit": "6311b6b8768066bd4bffd2568395f7d757457aea"
 }
