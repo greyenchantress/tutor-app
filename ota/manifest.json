@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "file": "bundle-1.4.1.zip",
-  "checksum": "6ff11dfb24377409f418ddfcdefb2100cc719363075846d852bcdb41dfebd4a4",
-  "notes": "1.4.1：下载更新时显示进度百分比",
+  "version": "1.4.2",
+  "file": "bundle-1.4.2.zip",
+  "checksum": "d55a150e637f84d174b71e72ce99a9f2ca836fca940da9467f31512ec8abd488",
+  "notes": "修复手机上无法下载更新的问题：下载源重新排序（卡的那个放最后）、单地址 30 秒超时即换下一个、CDN 全不行时走代理转发 GitHub 直链、防止重复检查并发下载。",
   "minShellVersion": "1.2.0",
-  "commit": "8aecba0b1be309aa0f1309e7458525660c09f1c1"
+  "commit": "6b74a0dd866197214f9d0eecab39775c7a3ed8ff"
 }
