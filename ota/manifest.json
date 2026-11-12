@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "file": "bundle-1.3.0.zip",
-  "checksum": "14b5e555fd5ffba1c926ca8155f4ba79b18923279ddf780ccf4bf2fd86ecac10",
-  "notes": "更新地址改成走 jsDelivr 的 latest 标签，不再依赖 github.com",
+  "version": "1.3.1",
+  "file": "bundle-1.3.1.zip",
+  "checksum": "0f6a4656ce20016e1e6e8d72a48fa2d1b770409f43dbae55a71e2892ef81c025",
+  "notes": "检查更新不再卡住：插件调用全部限时，界面版本改读本地记录，自检逐条出结果",
   "minShellVersion": "1.2.0",
-  "commit": "443096f9265472a779e86767a6513843e2652d49"
+  "commit": "93d37a85d5f83ba60344adb21b135b3c46881e5f"
 }
