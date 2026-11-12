@@ -1,8 +1,8 @@
 {
-  "version": "1.3.2",
-  "file": "bundle-1.3.2.zip",
-  "checksum": "5b4537a5461ea797858b72aeb9c0b1747b28df38b43e5ecfb9f49061e3136176",
-  "notes": "检查更新彻底不卡：插件调用全部限时、进度分步显示、源滞后会自动问下一个源",
+  "version": "1.4.0",
+  "file": "bundle-1.4.0.zip",
+  "checksum": "91c29e20105483fbc355c456d674f21a84f04589199cd3dabe999f5364963109",
+  "notes": "1.4.0：学生可归档/彻底删除、成绩可删、单价可按年级科目自己改、排课改成待办式勾选、上完弹复盘、UI 更顺手",
   "minShellVersion": "1.2.0",
-  "commit": "6311b6b8768066bd4bffd2568395f7d757457aea"
+  "commit": "d643db5efce43366645fe63fda3cfcb49979526d"
 }
