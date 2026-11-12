@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "file": "bundle-1.1.0.zip",
+  "checksum": "346d4cd2d6921e33a5ec5bc043cbe20b21858628fd401948cff0efaeb71b9077",
+  "notes": "改用镜像分发：连不上时自动换源，检查更新不会再一直转圈",
+  "minShellVersion": "1.1.0"
+}
