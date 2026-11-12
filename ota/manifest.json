@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "file": "bundle-1.1.0.zip",
-  "checksum": "346d4cd2d6921e33a5ec5bc043cbe20b21858628fd401948cff0efaeb71b9077",
-  "notes": "改用镜像分发：连不上时自动换源，检查更新不会再一直转圈",
-  "minShellVersion": "1.1.0"
+  "version": "1.2.0",
+  "file": "bundle-1.2.0.zip",
+  "checksum": "10f83b3116044e078f930c2db4920add8a68a47dad6e34cd6ff922b2944763c7",
+  "notes": "检查更新不会再一直转圈：两条网络通道都试、6 秒超时自动换源，另加了网络自检",
+  "minShellVersion": "1.2.0"
 }
