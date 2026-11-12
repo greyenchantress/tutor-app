@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "file": "bundle-1.4.0.zip",
-  "checksum": "91c29e20105483fbc355c456d674f21a84f04589199cd3dabe999f5364963109",
-  "notes": "1.4.0：学生可归档/彻底删除、成绩可删、单价可按年级科目自己改、排课改成待办式勾选、上完弹复盘、UI 更顺手",
+  "version": "1.4.1",
+  "file": "bundle-1.4.1.zip",
+  "checksum": "6ff11dfb24377409f418ddfcdefb2100cc719363075846d852bcdb41dfebd4a4",
+  "notes": "1.4.1：下载更新时显示进度百分比",
   "minShellVersion": "1.2.0",
-  "commit": "d643db5efce43366645fe63fda3cfcb49979526d"
+  "commit": "8aecba0b1be309aa0f1309e7458525660c09f1c1"
 }
