@@ -1,8 +1,0 @@
-{
-  "version": "1.5.0",
-  "file": "bundle-1.5.0.zip",
-  "checksum": "2061201738dd55a0ae54cf4336f5b3409f3bc37700e32b75014e6f21d73e893b",
-  "notes": "大更新：一节课多科目（单科/分段/杂烩）、学生页分科目单价+综合价、课表改日程表（时间轴+周格双视图）、记账只看未收清、UI 优化",
-  "minShellVersion": "1.2.0",
-  "commit": "822db5684471add0fdd1ebd7963359af9aee5554"
-}
