@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "file": "bundle-1.4.2.zip",
-  "checksum": "d55a150e637f84d174b71e72ce99a9f2ca836fca940da9467f31512ec8abd488",
-  "notes": "修复手机上无法下载更新的问题：下载源重新排序（卡的那个放最后）、单地址 30 秒超时即换下一个、CDN 全不行时走代理转发 GitHub 直链、防止重复检查并发下载。",
+  "version": "1.5.0",
+  "file": "bundle-1.5.0.zip",
+  "checksum": "2061201738dd55a0ae54cf4336f5b3409f3bc37700e32b75014e6f21d73e893b",
+  "notes": "大更新：一节课多科目（单科/分段/杂烩）、学生页分科目单价+综合价、课表改日程表（时间轴+周格双视图）、记账只看未收清、UI 优化",
   "minShellVersion": "1.2.0",
-  "commit": "6b74a0dd866197214f9d0eecab39775c7a3ed8ff"
+  "commit": "822db5684471add0fdd1ebd7963359af9aee5554"
 }
